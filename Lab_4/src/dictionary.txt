@@ -1,0 +1,6 @@
+hello | привет
+thank you | спасибо
+goodbye | до свидания
+I look forward to | Я с нетерпением жду
+look forward to | с нетерпением жду
+look | смотреть=
